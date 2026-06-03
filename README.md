@@ -4,7 +4,7 @@ By Nexus Experience Team​
 (P1010mod and NeptuneTechAndAviationFan)
 ​
 <img width="2000" height="500" alt="NEX Banner" src="https://github.com/user-attachments/assets/b2f18c53-7632-4eb1-8309-ba51e04f3ac4" />
-We have a custom rom project for p1010. Nexus-style, Android 4.4 Kitkat base, Kernel base from latona This is the FIRST CUSTOM ROM project FOR p1010 Its on making process and check out our channel for news about it and more: https://www.youtube.com/@Nexus-Experience
+This a custom rom project for forgotten devices. Nexus-style, a newer Android base, And our project will make the FIRST CUSTOM ROM FOR P1010. It's on making process. And, check out our channel for news about it and more: https://www.youtube.com/@Nexus-Experience
 
 What is Nexus Experience?
 
@@ -12,4 +12,4 @@ Nexus Experience is a project that aims to give newer Android and life to old, f
 
 We are working on making a custom ROM for the GT-P1010, based on Android 4.4 KitKat. We will use the Galaxy SL's (latona) sources to try and build a ROM for the P1010, taking in note, both have extremely similar specifications, and the same TI OMAP3630 processors.
 
-Original Kernel Source : https://github.com/zacqed/samsung-kernel-latona
+Original Kernel Source for P1010 ROM: https://github.com/zacqed/samsung-kernel-latona
