@@ -1,8 +1,9 @@
 # Nexus Experience Collection
 By Nexus Experience Team​
 
-(P1010mod and NeptuneTechAndAviationFan)​
-
+(P1010mod and NeptuneTechAndAviationFan)
+​
+<img width="2000" height="500" alt="NEX Banner" src="https://github.com/user-attachments/assets/b2f18c53-7632-4eb1-8309-ba51e04f3ac4" />
 We have a custom rom project for p1010. Nexus-style, Android 4.4 Kitkat base, Kernel base from latona This is the FIRST CUSTOM ROM project FOR p1010 Its on making process and check out our channel for news about it and more: https://www.youtube.com/@Nexus-Experience
 
 What is Nexus Experience?
