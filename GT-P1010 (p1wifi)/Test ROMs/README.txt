@@ -8,7 +8,7 @@ Make sure to follow every single step of flashing correctly. This works for ever
 ------ INSTRUCTIONS -----
 0.5. Make sure to download every file needed to use for the guide ON THIS REPOSITORY, and transfer it all to a SD Card inside the device. Utilizing different files to the ones on the repo could render your device unusable.
 
-1. Make sure you're in FroYo (2.2.1-2.2.2), if not, downgrade to FroYo. (If you get a bootloop whilst downgrading, force shutdown the device and boot into recovery and use all wipe selections), if not done, the 2nd step which is required will soft-brick your tablet.
+1. Make sure you're in FroYo (2.2.1-2.2.2), if not, downgrade to FroYo. (If you get a bootloop whilst downgrading, force shutdown the device and boot into recovery and use all wipe selections), if not done, the 2nd step which is required will soft-brick your tablet and render the operating system unusable, unless if you recover with Odin.
 
 2. Boot into Download Mode by pressing Volume + Down, and using Odin (which you find on the Recovery folder), flash p1010-ext4-ckernel.tar to the PDA/AP slot, which is the custom kernel that has support for the ext4 file system Nexus Experience uses, and flash Skin1980_P1010_CWM-RECOVERY-BETA-1.tar (on the recovery folder), the CWM Recovery Environment, also to PDA/AP.
 
@@ -23,7 +23,7 @@ Make sure to follow every single step of flashing correctly. This works for ever
 6. After wiping Cache, go back, navigate to "advanced", select "wipe dalvik cache", confirm the choice, and then
 return back to the main menu.
 
-7. Scroll to install zip from sdcard, and locate the nexus-ext4-formatter.zip file (which you can find on the recovery folder), and flash it.
+7. Scroll to install zip from sdcard, and locate the nexus-ext4-formatter.zip file (which you can find on the recovery folder), and flash it. (WARNING, THIS WILL DELETE ALL YOUR FILES, AND HAS A RISK OF BRICKING YOUR DEVICE IF NOT PROPERLY FINISHED. !! PROCEED WITH CARE !!)
 
 8. After you flash the ext4 formatter, reboot CWM, and flash the Nexus Experience ROM.
 
