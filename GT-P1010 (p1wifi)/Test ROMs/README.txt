@@ -23,9 +23,9 @@ Make sure to follow every single step of flashing correctly. This works for ever
 6. After wiping Cache, go back, navigate to "advanced", select "wipe dalvik cache", confirm the choice, and then
 return back to the main menu.
 
-7. Scroll to install zip from sdcard, and locate the nexus-ext4-formatter.zip file, and flash it.
+7. Scroll to install zip from sdcard, and locate the nexus-ext4-formatter.zip file (which you can find on the recovery folder), and flash it.
 
-8. After you formatted your device to ext4, reboot CWM, and flash the Nexus Experience ROM.
+8. After you flash the ext4 formatter, reboot CWM, and flash the Nexus Experience ROM.
 
 
 --- GAPPS (OPTIONAL) ---
