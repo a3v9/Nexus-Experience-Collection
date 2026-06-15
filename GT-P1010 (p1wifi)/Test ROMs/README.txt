@@ -1,5 +1,5 @@
 ------- WARNING --------
-This is a collection of builds of Nexus Experience for the device chosen. 
+This is a collection of builds of Nexus Experience for the device GT-P1010.
 If there are no builds visible, development may not have been started or the files might have been removed somehow.
 
 After flashing, if your device is rendered unusable, we are NOT in any way responsible, we do not provide any warranty.
